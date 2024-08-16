@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuIeuz7Pp+k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abbas\\OneDrive\\Documents\\SEQ\\SeqLoggingExample\\SeqLoggingExample\\SeqLoggingExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abbas\\.nuget\\packages\\serilog\\4.0.1\\serilog.4.0.1.nupkg.sha512",
+    "C:\\Users\\abbas\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\abbas\\.nuget\\packages\\serilog.sinks.seq\\8.0.0\\serilog.sinks.seq.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
